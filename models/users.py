@@ -6,7 +6,7 @@ import datetime
 
 class User(UserMixin, db.Model):
     """
-    Create a User table
+    User table
     """
 
     # Ensures table will be named in plural and not in singular
