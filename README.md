@@ -1,5 +1,5 @@
 ## Simple flask API app refreshed
-
+- eval "$(pyenv init -)"
 - create `.env` file(using `.env.example` as model) 
 - To run use `docker-compose up`
 - runs in http://localhost:8000
